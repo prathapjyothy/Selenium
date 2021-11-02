@@ -27,7 +27,7 @@ WebDriverWait wait = new WebDriverWait(driver, 10);
 
 
 driver.get("https://www.cleartrip.com/");
-Thread.sleep(3000);
+Thread.sleep(2000);
 //Adults select box
 
 WebElement adultsselectbox = driver.findElement(By.xpath("//div[@class='mb-4']/select"));
