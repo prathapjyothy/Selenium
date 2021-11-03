@@ -6,10 +6,11 @@ Install prerequisites
   *Install Git
   *Download Selenium Jars
   
-
+# Eclipse
 Open eclipse
 Create New Java project
 Setup Java Build path & Java compilers.
 Add External jars
 
+# Webdriver
 Download & Setup Chrome webdriver.
