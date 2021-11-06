@@ -1,4 +1,4 @@
-package intro;
+package seleniumClasses;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 
-public class test {
+public class AssignmentOne {
 
 
 
