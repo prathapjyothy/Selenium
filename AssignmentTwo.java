@@ -1,4 +1,4 @@
-package intro;
+package seleniumClasses;
 
 import java.util.List;
 import org.openqa.selenium.By;
@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 
-public class checkboxAssignment {
+public class AssignmentTwo {
 
 
 
